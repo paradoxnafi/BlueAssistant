@@ -15,6 +15,4 @@ sudo python3 setup.py
 You need root permisson hre. The setup file will first check for update. Then it will install "python3-dev python3-pip wget mpg123" packages and "youtube-dl" pip module.
 
 # Stop
-Press CTRL+C to stop a currently playing music. type '/exit' to stop the program.
-=======
 Press CTRL+C to stop a currently playing music. Type '/exit' to stop the program.
