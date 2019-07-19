@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # This code plays music from youtube.
 # It takes a query and serch it on youtube.
 # Then plays the first result.
