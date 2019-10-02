@@ -22,5 +22,10 @@ chmod +x play_from_youtube.py
 ```
 ./play_from_youtube.py
 ```
+If you get `ImportError: cannot import name 'HTMLParseError'` the you need to upgrade `beautifulsoup4`.
+To upgreade `beautifulsoup4`:
+```
+sudo pip3 install --upgrade beautifulsoup4
+```
 # Stop
 Press CTRL+C to stop a currently playing music. Type '/exit' to stop the program.
